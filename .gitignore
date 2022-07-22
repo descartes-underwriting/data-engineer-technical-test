@@ -1,0 +1,12 @@
+# airflow
+airflow/**/*
+!airflow/output/.gitkeep
+!airflow/dags/variables.py
+!airflow/logs/.gitkeep
+!airflow/plugins/.gitkeep
+
+#python
+__pycache__
+
+# IDE
+.vscode/
