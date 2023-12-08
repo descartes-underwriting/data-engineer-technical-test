@@ -37,7 +37,7 @@ In [../src/data-engineer-technical-test/api.py](../src/data-engineer-technical-t
 
 In [../src/data-engineer-technical-test/payouts.py](../src/data-engineer-technical-test/payouts.py).
 
-1. populate the `losses` table with the relevant data using the provided cost structure (`cost_structure.csv`)
+1. populate the `losses` table with the relevant data using the provided payout structure (`payout_structure.csv`)
 2. select the variables (year, earthquake, location, loss) from to payout table and export them to csv format
 3. select the losses per event and export them to csv format
 4. select the losses per year and export them to csv format
