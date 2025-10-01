@@ -24,6 +24,7 @@ When the final version is ready:
 - <https://github.com/alexandreCameron>
 - <https://github.com/mt94>
 - <https://github.com/jd-rodriguez>
+- <https://github.com/anyset>
 
 ## Instructions
 
